@@ -106,7 +106,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="46.3%" src="https://github-readme-stats.vercel.app/api?username=MeerMuneeb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeerMuneeb&theme=tokyonight" alt="GitHub Streak" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeerMuneeb&layout=compact&theme=tokyonight" />
 </p>
 
