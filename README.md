@@ -2,6 +2,8 @@
 
 - 💻 Lead Full-Stack Developer | MERN Stack & React Native Specialist | Blockchain Enthusiast
 - 🏆 **ASOCIO International Award Winner** - RunVerse Project (Move-to-Earn Platform)
+- 🥉 **AI Wrapper 2025 2nd Runner Up** - RunVerse Project (Move-to-Earn Platform)
+- 🏆 **12th Wafi Tameer Awards 2025!** - RunVerse Project (Move-to-Earn Platform)
 - ⚡ Expert at building scalable eCommerce, Healthcare & Blockchain Solutions
 - 🚀 Currently working on **RUNVERSE** (Award-Winning M2E Platform) & **AI-Powered Trading Bots**
 - 🌱 Exploring **Web3**, **Blockchain Integration**, **GSAP**, and **3D Web Development**
