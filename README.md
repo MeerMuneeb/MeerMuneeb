@@ -61,6 +61,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
@@ -108,14 +111,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MeerMuneeb&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeerMuneeb&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MeerMuneeb&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MeerMuneeb&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 </p>
 
----
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=MeerMuneeb&theme=tokyonight&column=9" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeerMuneeb&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
